@@ -9,5 +9,5 @@ Experimentation on the benchmark Facebook AI empathetic dialogue dataset confirm
 
 
 
-# If using this code, please cite our paper as:
-# Goel, Raman, Seba Susan, Sachin Vashisht, and Armaan Dhanda. "Emotion-Aware Transformer Encoder for Empathetic Dialogue Generation." In 2021 9th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW), pp. 1-6. IEEE, 2021. 
+### If using this code, please cite our paper as:
+Goel, Raman, Seba Susan, Sachin Vashisht, and Armaan Dhanda. "Emotion-Aware Transformer Encoder for Empathetic Dialogue Generation." In 2021 9th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW), pp. 1-6. IEEE, 2021. 
