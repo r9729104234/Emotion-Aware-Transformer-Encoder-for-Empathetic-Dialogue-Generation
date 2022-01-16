@@ -7,3 +7,7 @@ Modern-day conversational agents are trained to emulate the manner in which huma
 
 Experimentation on the benchmark Facebook AI empathetic dialogue dataset confirms the efficacy of our model from the higher BLEU-4 scores achieved for the generated responses, as compared to existing methods. Emotionally intelligent virtual agents are now a reality and inclusion of affect as a modality in all human-machine interfaces is foreseen in the immediate future.
 
+
+
+# If using this code, please cite our paper as:
+# Goel, Raman, Seba Susan, Sachin Vashisht, and Armaan Dhanda. "Emotion-Aware Transformer Encoder for Empathetic Dialogue Generation." In 2021 9th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW), pp. 1-6. IEEE, 2021. 
